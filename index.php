@@ -6,7 +6,7 @@
 
 <body>
 
-<?php echo "Hello World! version 2"; ?>
+<?php echo "Hello World! version 3"; ?>
 
 </body>
 </html>
